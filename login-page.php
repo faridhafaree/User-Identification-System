@@ -60,7 +60,7 @@
     <footer class="footer">
       <div class="container">
         <div class="copyright float-center">
-          <h6>❮ Built with 🧡 by AzizStark ❯</h6>
+          <h6>❮ Built with 🧡 by FARIDHA ❯</h6>
         </div>
       </div>
     </footer>
