@@ -47,7 +47,7 @@
             </div>
 
             <div class="card-footer text-muted" style="position: fixed; left: 0; bottom: 0; width: 100%; background-color: #f4f4f4; text-align: center;">
-                    <p><h6>❮ Built with 🧡 by AzizStark ❯</h6></p>
+                    <p><h6>❮ Built with 🧡 by FARIDHA ❯</h6></p>
             </div>
     </body>    
 </html>        
